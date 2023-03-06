@@ -1,9 +1,8 @@
 ---
-layout: landing
-lang: en
-hidetitle: True
+ layout: landing
+ lang: en
+ hidetitle: True
+ redirect: "/en/"
+ ---
 
----
-
-# hello
-## there...
+ Redirect to [/en/](/en)
